@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\ProOne"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ritwickdey.liveserver"
+		]
+	}
+}
